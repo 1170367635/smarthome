@@ -1,0 +1,161 @@
+[INFO ][2018/09/21 12:20:15292][com.briup.loger.Logger.main(Logger.java:7)]
+info信息
+  [DEBUG][2018/09/21 12:20:15464][com.briup.loger.Logger.main(Logger.java:8)]
+debug信息
+  [ERROR][2018/09/21 12:20:15465][com.briup.loger.Logger.main(Logger.java:9)]
+error信息
+  [WARN ][2018/09/21 12:20:15465][com.briup.loger.Logger.main(Logger.java:10)]
+warn信息
+  [INFO ][2018/09/25 19:08:16963][com.briup.loger.Log.info(Log.java:30)]
+开始等待链接.....
+  [INFO ][2018/09/25 19:08:215  ][com.briup.loger.Log.info(Log.java:30)]
+客户端开始连接服务器·············
+  [INFO ][2018/09/25 19:08:2117 ][com.briup.loger.Log.info(Log.java:30)]
+客户端连接成功·······
+  [INFO ][2018/09/25 19:08:2119 ][com.briup.loger.Log.info(Log.java:30)]
+开始等待链接.....
+  [INFO ][2018/09/25 19:08:2119 ][com.briup.loger.Log.info(Log.java:30)]
+文件读取开始····
+  [DEBUG][2018/09/25 19:08:2130 ][com.briup.loger.Log.debug(Log.java:23)]
+rsf发生空指针······
+  [WARN ][2018/09/25 19:08:26335][com.briup.loger.Log.warn(Log.java:37)]
+关闭rsf流
+  [INFO ][2018/09/25 19:08:26336][com.briup.loger.Log.info(Log.java:30)]
+文件读取结束········
+  [INFO ][2018/09/25 19:08:26337][com.briup.loger.Log.info(Log.java:30)]
+数据发送开始
+  [INFO ][2018/09/25 19:08:3916 ][com.briup.loger.Log.info(Log.java:30)]
+数据接收成功
+  [INFO ][2018/09/25 19:08:3916 ][com.briup.loger.Log.info(Log.java:30)]
+发送数据完成
+  [INFO ][2018/09/25 19:08:3917 ][com.briup.loger.Log.info(Log.java:30)]
+开始入库········
+  [WARN ][2018/09/25 19:08:3917 ][com.briup.loger.Log.warn(Log.java:37)]
+关闭socket服务
+  [INFO ][2018/09/25 19:08:41594][com.briup.loger.Log.info(Log.java:30)]
+入库结束`````````
+  [WARN ][2018/09/25 19:08:41595][com.briup.loger.Log.warn(Log.java:37)]
+socket关闭
+  [INFO ][2018/09/25 20:07:22213][com.briup.loger.Log.info(Log.java:30)]
+开始等待链接.....
+  [INFO ][2018/09/25 20:07:25969][com.briup.loger.Log.info(Log.java:30)]
+客户端开始连接服务器·············
+  [INFO ][2018/09/25 20:07:25981][com.briup.loger.Log.info(Log.java:30)]
+客户端连接成功·······
+  [INFO ][2018/09/25 20:07:25983][com.briup.loger.Log.info(Log.java:30)]
+开始等待链接.....
+  [INFO ][2018/09/25 20:07:25994][com.briup.loger.Log.info(Log.java:30)]
+文件读取开始····
+  [DEBUG][2018/09/25 20:07:25994][com.briup.loger.Log.debug(Log.java:23)]
+rsf发生空指针······
+  [WARN ][2018/09/25 20:07:31484][com.briup.loger.Log.warn(Log.java:37)]
+关闭rsf流
+  [INFO ][2018/09/25 20:07:31484][com.briup.loger.Log.info(Log.java:30)]
+文件读取结束········
+  [INFO ][2018/09/25 20:07:31514][com.briup.loger.Log.info(Log.java:30)]
+数据发送开始
+  [INFO ][2018/09/25 20:07:44672][com.briup.loger.Log.info(Log.java:30)]
+数据接收成功
+  [INFO ][2018/09/25 20:07:44672][com.briup.loger.Log.info(Log.java:30)]
+发送数据完成
+  [INFO ][2018/09/25 20:07:44673][com.briup.loger.Log.info(Log.java:30)]
+开始入库········
+  [WARN ][2018/09/25 20:07:44673][com.briup.loger.Log.warn(Log.java:37)]
+关闭socket服务
+  [INFO ][2018/09/25 20:07:4911 ][com.briup.loger.Log.info(Log.java:30)]
+入库结束`````````
+  [WARN ][2018/09/25 20:07:4972 ][com.briup.loger.Log.warn(Log.java:37)]
+socket关闭
+  [INFO ][2018/09/25 20:08:39424][com.briup.loger.Log.info(Log.java:30)]
+开始等待链接.....
+  [INFO ][2018/09/25 20:08:42400][com.briup.loger.Log.info(Log.java:30)]
+客户端开始连接服务器·············
+  [INFO ][2018/09/25 20:08:42412][com.briup.loger.Log.info(Log.java:30)]
+客户端连接成功·······
+  [INFO ][2018/09/25 20:08:42413][com.briup.loger.Log.info(Log.java:30)]
+文件读取开始····
+  [DEBUG][2018/09/25 20:08:42414][com.briup.loger.Log.debug(Log.java:23)]
+rsf发生空指针······
+  [INFO ][2018/09/25 20:08:42414][com.briup.loger.Log.info(Log.java:30)]
+开始等待链接.....
+  [WARN ][2018/09/25 20:08:47189][com.briup.loger.Log.warn(Log.java:37)]
+关闭rsf流
+  [INFO ][2018/09/25 20:08:47189][com.briup.loger.Log.info(Log.java:30)]
+文件读取结束········
+  [INFO ][2018/09/25 20:08:47191][com.briup.loger.Log.info(Log.java:30)]
+数据发送开始
+  [INFO ][2018/09/25 20:09:0019 ][com.briup.loger.Log.info(Log.java:30)]
+数据接收成功
+  [INFO ][2018/09/25 20:09:0019 ][com.briup.loger.Log.info(Log.java:30)]
+发送数据完成
+  [INFO ][2018/09/25 20:09:0020 ][com.briup.loger.Log.info(Log.java:30)]
+开始入库········
+  [WARN ][2018/09/25 20:09:0020 ][com.briup.loger.Log.warn(Log.java:37)]
+关闭socket服务
+  [INFO ][2018/09/25 20:09:05984][com.briup.loger.Log.info(Log.java:30)]
+入库结束`````````
+  [WARN ][2018/09/25 20:09:05985][com.briup.loger.Log.warn(Log.java:37)]
+socket关闭
+  [INFO ][2018/09/25 20:09:29144][com.briup.loger.Log.info(Log.java:30)]
+客户端开始连接服务器·············
+  [INFO ][2018/09/25 20:09:3912 ][com.briup.loger.Log.info(Log.java:30)]
+开始等待链接.....
+  [INFO ][2018/09/25 20:09:42205][com.briup.loger.Log.info(Log.java:30)]
+客户端开始连接服务器·············
+  [INFO ][2018/09/25 20:09:42217][com.briup.loger.Log.info(Log.java:30)]
+客户端连接成功·······
+  [INFO ][2018/09/25 20:09:42218][com.briup.loger.Log.info(Log.java:30)]
+文件读取开始····
+  [DEBUG][2018/09/25 20:09:42218][com.briup.loger.Log.debug(Log.java:23)]
+rsf发生空指针······
+  [INFO ][2018/09/25 20:09:42219][com.briup.loger.Log.info(Log.java:30)]
+开始等待链接.....
+  [WARN ][2018/09/25 20:09:4758 ][com.briup.loger.Log.warn(Log.java:37)]
+关闭rsf流
+  [INFO ][2018/09/25 20:09:4759 ][com.briup.loger.Log.info(Log.java:30)]
+文件读取结束········
+  [INFO ][2018/09/25 20:09:4760 ][com.briup.loger.Log.info(Log.java:30)]
+数据发送开始
+  [INFO ][2018/09/25 20:09:59896][com.briup.loger.Log.info(Log.java:30)]
+数据接收成功
+  [INFO ][2018/09/25 20:09:59895][com.briup.loger.Log.info(Log.java:30)]
+发送数据完成
+  [INFO ][2018/09/25 20:09:59896][com.briup.loger.Log.info(Log.java:30)]
+开始入库········
+  [WARN ][2018/09/25 20:09:59896][com.briup.loger.Log.warn(Log.java:37)]
+关闭socket服务
+  [INFO ][2018/09/25 20:10:04961][com.briup.loger.Log.info(Log.java:30)]
+入库结束`````````
+  [WARN ][2018/09/25 20:10:04962][com.briup.loger.Log.warn(Log.java:37)]
+socket关闭
+  [INFO ][2018/09/25 20:11:48542][com.briup.loger.Log.info(Log.java:30)]
+开始等待链接.....
+  [INFO ][2018/09/25 20:11:51420][com.briup.loger.Log.info(Log.java:30)]
+客户端开始连接服务器·············
+  [INFO ][2018/09/25 20:11:51431][com.briup.loger.Log.info(Log.java:30)]
+客户端连接成功·······
+  [INFO ][2018/09/25 20:11:51432][com.briup.loger.Log.info(Log.java:30)]
+文件读取开始····
+  [INFO ][2018/09/25 20:11:51433][com.briup.loger.Log.info(Log.java:30)]
+开始等待链接.....
+  [DEBUG][2018/09/25 20:11:51433][com.briup.loger.Log.debug(Log.java:23)]
+rsf发生空指针······
+  [WARN ][2018/09/25 20:11:56183][com.briup.loger.Log.warn(Log.java:37)]
+关闭rsf流
+  [INFO ][2018/09/25 20:11:56184][com.briup.loger.Log.info(Log.java:30)]
+文件读取结束········
+  [INFO ][2018/09/25 20:11:56185][com.briup.loger.Log.info(Log.java:30)]
+数据发送开始
+  [INFO ][2018/09/25 20:12:0993 ][com.briup.loger.Log.info(Log.java:30)]
+数据接收成功
+  [INFO ][2018/09/25 20:12:0994 ][com.briup.loger.Log.info(Log.java:30)]
+开始入库········
+  [INFO ][2018/09/25 20:12:0993 ][com.briup.loger.Log.info(Log.java:30)]
+发送数据完成
+  [WARN ][2018/09/25 20:12:09101][com.briup.loger.Log.warn(Log.java:37)]
+关闭socket服务
+  [INFO ][2018/09/25 20:12:14323][com.briup.loger.Log.info(Log.java:30)]
+入库结束`````````
+  [WARN ][2018/09/25 20:12:14439][com.briup.loger.Log.warn(Log.java:37)]
+socket关闭
+  
